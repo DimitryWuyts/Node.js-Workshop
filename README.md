@@ -27,7 +27,7 @@ If you are on windows make sure you have something like git bash to have a worki
 
 * Other packages will be installed during the workshop when needed.
 
-`const tuesdayAfternoon = fs.writeFileSync('workshop.start', 'node&Express')`
+`const tuesdayAfternoon = fs.writeFileSync('workshop.start', nodeAndExpress)`
 
 
 
